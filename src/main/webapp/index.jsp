@@ -8,6 +8,8 @@
 </head>
 <body>
 
+<h1> HELLO </h1>
+
 <h1>Hello JSP and Servlet!</h1>
 <form action="HelloServlet" method="post">
 Enter your name: <input type="text" name="yourName" size="20">
